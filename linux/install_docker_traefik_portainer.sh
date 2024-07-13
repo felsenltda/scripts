@@ -61,8 +61,6 @@ alterar_hostname $nome_servidor
 sudo apt-get update
 sudo apt-get upgrade -y
 instalar_pacote apparmor-utils
-instalar_pacote dialog
-instalar_pacote git
 
 # ------------------------ INSTALAÇÃO DO DOCKER
 
